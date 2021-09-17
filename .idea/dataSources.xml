@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="LECDB@9.1.27.35" uuid="d04470c4-e957-4e26-9ac6-00260028cd8c">
+      <driver-ref>db2</driver-ref>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://9.1.27.35:50001/LECDB</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <keep-alive enable="true" />
+    </data-source>
+    <data-source source="LOCAL" name="BQDBDB@9.1.39.34" uuid="e00036eb-a677-4a09-98d9-e11c7174b894">
+      <driver-ref>db2</driver-ref>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://9.1.39.34:50001/BQDBDB</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <keep-alive enable="true" />
+    </data-source>
+  </component>
+</project>

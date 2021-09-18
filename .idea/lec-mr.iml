@@ -12,12 +12,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="groovy-3.0.8" level="application" />
-    <orderEntry type="library" name="Maven: com.lec.3rd:bigdata:3.0.0" level="project" />
-    <orderEntry type="library" name="Maven: com.lec.3rd:bigdata2:3.0.0" level="project" />
-    <orderEntry type="library" name="Maven: com.lec.3rd:bigdata3:3.0.0" level="project" />
-    <orderEntry type="library" name="Maven: com.lec.3rd:bigdata4:3.0.0" level="project" />
-    <orderEntry type="library" name="Maven: com.lec.3rd:bigdata5:3.0.0" level="project" />
-    <orderEntry type="library" name="Maven: com.lec.3rd:bigdata6:3.0.0" level="project" />
     <orderEntry type="library" name="Maven: com.ibm.db2.jcc:db2jcc4:10.5" level="project" />
     <orderEntry type="library" name="Maven: redis.clients:jedis:3.2.0" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
